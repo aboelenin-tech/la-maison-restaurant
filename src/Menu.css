@@ -1,0 +1,52 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.card {
+    overflow: hidden;
+    transition: 1s ease;
+}
+
+.card img {
+    transition: 1s ease;
+}
+
+.card img:hover {
+    transform: scale(1.1);
+}
+
+.btn {
+    transition: 1s ease;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  display: block;
+}
+
+.btn {
+  transition: transform 1s ease !important;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
